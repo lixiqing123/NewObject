@@ -5,6 +5,7 @@ public class Hello{
 		System.out.println("这是demo1的")
 
 		System.out.println("第二次不知道说点啥");
+		System.out.println("Idea修改了hello.java文件");
 
 }
 }
